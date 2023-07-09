@@ -98,4 +98,4 @@ Please send your proposal
 [template of writing the statement of interest](https://developers.google.com/season-of-docs/docs/tech-writer-statement)
 from Google)
 to our mail at: [admin@casbin.org](mailto:admin@casbin.org) ,
-and then introduce yourself after joining our [Casbin Gitter.im channel](https://gitter.im/casbin/Lobby) for connecting.
+and then introduce yourself after joining our [Discord](https://discord.gg/z5TZyJC5uv) for connecting.
